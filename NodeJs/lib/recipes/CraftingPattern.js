@@ -1,0 +1,1 @@
+../../../Jsweet/jsweet/js/CraftingPattern.js

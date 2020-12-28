@@ -1,0 +1,37 @@
+{
+  "candies": [
+    {
+      "name": "jsweet-core",
+      "version": "1.1.0-20160525",
+      "lastUpdateTimestamp": 1464214836000,
+      "modelVersion": "unknown",
+      "transpilerVersion": "1.1.0",
+      "jsOutputDirPath": "G:\\GitHub\\CraftTweaker-Log-Recipe-Parser\\Jsweet\\jsweet",
+      "jsDirPath": "META-INF/resources/webjars/jsweet-core/1.1.0-20160525",
+      "jsFilesPaths": []
+    },
+    {
+      "name": "node",
+      "version": "7.5.0-20170726",
+      "lastUpdateTimestamp": 1501615904000,
+      "modelVersion": "unknown",
+      "transpilerVersion": "2.0.0",
+      "jsOutputDirPath": "G:\\GitHub\\CraftTweaker-Log-Recipe-Parser\\Jsweet\\jsweet",
+      "jsDirPath": "META-INF/resources/webjars/node/7.5.0-20170726",
+      "jsFilesPaths": []
+    },
+    {
+      "name": "j4ts",
+      "version": "0.6.0",
+      "lastUpdateTimestamp": 1570407990000,
+      "modelVersion": "unknown",
+      "transpilerVersion": "2.3.5",
+      "jsOutputDirPath": "G:\\GitHub\\CraftTweaker-Log-Recipe-Parser\\Jsweet\\jsweet",
+      "jsDirPath": "META-INF/resources/webjars/j4ts/0.6.0",
+      "jsFilesPaths": [
+        "META-INF/resources/webjars/j4ts/0.6.0/.tsc-rootfile.js",
+        "META-INF/resources/webjars/j4ts/0.6.0/bundle.js"
+      ]
+    }
+  ]
+}

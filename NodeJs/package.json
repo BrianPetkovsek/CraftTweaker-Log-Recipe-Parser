@@ -1,0 +1,24 @@
+{
+  "name": "crafttweaker-log-recipe-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianPetkovsek/CraftTweaker-Log-Recipe-Parser.git"
+  },
+  "author": "Brian Petkovsek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrianPetkovsek/CraftTweaker-Log-Recipe-Parser/issues"
+  },
+  "homepage": "https://github.com/BrianPetkovsek/CraftTweaker-Log-Recipe-Parser#readme",
+  "dependencies": {
+    "n-readlines": "^1.0.1",
+    "recipes": "file:lib/recipes"
+  }
+}
